@@ -1,6 +1,6 @@
 # CV Hackathon Submission
 
-This is our submission to the Aaltoes Computer Vision Hackathon. Our team participants include [name_1], [name_2], and [name_3]. (Please replace these placeholders with your actual teammate names.)
+This is our submission to the Aaltoes Computer Vision Hackathon. Our team is [***]. Team participants include [name_1], [name_2], and [name_3]. (Please replace these placeholders with your actual teammate names.)
 
 ## Overview
 

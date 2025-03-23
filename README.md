@@ -22,18 +22,13 @@ Our solution follows these key steps:
 A fully documented Jupyter Notebook (`cv_hackathon.ipynb`) walks through our entire workflow, including code explanations, parameter choices, and visualization of results.
 
 ## Repository Structure
-
+```
 cv_hackathon.ipynb 
-
 /models
-    ├── model.py         # Contains model definitions, training scripts, or saved weights
-    
-    └── additional_files # (e.g., pretrained weights, helper scripts, etc.)
-    
+    ├── model.py         # Contains model definitions, training scripts, or saved weights  
+    └── additional_files # (e.g., pretrained weights, helper scripts, etc.)    
 README.md
-
 LICENSE
-
 requirements.txt       # (Optional) Dependencies file
-
+```
 
